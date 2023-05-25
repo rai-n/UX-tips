@@ -199,3 +199,15 @@ if (array_key_exists($uri, $routes)) {
 </body>
 </html>
 ```
+
+#### PHP vs ExpressJs
+
+PHP and ExpressJS are both server-side web application frameworks that allow developers to build web applications. However, there are some differences between the two.
+
+PHP is a server-side scripting language that is used to create dynamic web pages. It is one of the most popular programming languages for web development and is used by many websites, including Facebook and Wikipedia. PHP is an open-source language that can be used on any platform.
+
+ExpressJS, on the other hand, is a Node.js web application framework that is used to build web applications. It provides a set of features for building web applications, including routing, middleware support, and templating engines. ExpressJS is also open-source and can be used on any platform.
+
+One of the main differences between PHP and ExpressJS is that PHP is a programming language while ExpressJS is a framework. This means that PHP can be used to build any type of application while ExpressJS is specifically designed for building web applications.
+
+Another difference between the two is that PHP has been around for much longer than ExpressJS. PHP was first released in 1995 while ExpressJS was first released in 2010. This means that PHP has a larger community and more resources available than ExpressJS.
